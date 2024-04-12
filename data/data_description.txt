@@ -1,0 +1,13 @@
+Data Dictionary
+
+The data has the following attributes:
+- country: Name of the country
+- child_mort: Death of children under 5 years of age per 1000 live births
+- exports - Exports in % age of the GDP per capita
+- health - The total spend on health given as % of GDP
+- imports - The value of imports given as % of GDP per capita
+- income - The net income per person
+- inflation - Inflation rate %
+- life_expec - Average life expectancy in years
+- total_fer - The fertility rate - Average children per woman in the country
+- gdpp - GDP per capita
