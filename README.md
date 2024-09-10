@@ -6,7 +6,6 @@
 
 ## Data
 - data_description.txt is the data description from the MIT ADSP
-- data_orig.csv contains the original house price dataset from Kaggle
 - data_minmax.csv contains the MinMax scaled data from notebook 0-Data-Preprocessing.ipynb
 - data_norm.csv contains the Normalized data from notebook 0-Data-Preprocessing.ipynb
 - data_power.csv contains the Power transformed data from notebook 0-Data-Preprocessing.ipynb
